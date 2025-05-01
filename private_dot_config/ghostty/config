@@ -1,4 +1,5 @@
 theme = "Kanagawa Wave"
+font-family = "FiraCode Nerd Font Mono"
 link-url = true
 quit-after-last-window-closed = true
 maximize = true
